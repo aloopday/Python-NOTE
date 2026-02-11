@@ -46,5 +46,9 @@ The statements are executed one by one, in the same oreder as they are written:
 print("Hello World!")
 print("Have a good day.")
 print("Learning Python is fun!")
-``
+```
 
+## Multiline Comments
+Python does not really have a syntax for multiline comments.
+To add a multiline comment you could insert a `#` for each line:
+```
