@@ -58,3 +58,24 @@ Python allows you to extract the values into variables. This is called unpacking
 ## Output Variables
 
 `print()` function is often used to output variables.
+
+## Python - Global Variables
+
+Global variables are created out of the function
+Global variables can be used by everyone, both inside of functions and outside.
+
+Example :
+Create a variable outside of a function, and use it inside the function
+
+## The global Keyword
+Normally,when you create a variable inside a function, that 
+variable is local, and can only be used inside that function.
+
+To create a global variable inside a function, you can use 
+the `global` keyword.
+
+## if you use the `global` keyword, the variable belongs to 
+the global scope:
+
+## Python - variable Exercise
+[variable](https://www.w3schools.com/python/python_variables_exercises.asp)
