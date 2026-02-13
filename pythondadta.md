@@ -20,4 +20,5 @@ by using the `type()` function:
 
 example
 print the data type of the variable x:
-```
+## Setting the Data Type 
+In Python, the data type is set when you assign a value to a variable:
