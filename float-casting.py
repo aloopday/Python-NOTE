@@ -1,0 +1,8 @@
+x =float(1)
+y =float(2.6)
+z =float("5")
+o =float("3.19")
+print(x)
+print(y)
+print(z)
+print(o)
