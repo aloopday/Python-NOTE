@@ -14,3 +14,8 @@ However, Python does not have a character data type , a single character is
 simply a string with a length of 1.
 
 Square brackets can be used to access elements of the string.
+
+## Looping Through a String 
+
+## Since strings are arrays, we can loop through the characters in a string ,
+with a `for ` loop
