@@ -19,3 +19,4 @@ Square brackets can be used to access elements of the string.
 
 ## Since strings are arrays, we can loop through the characters in a string ,
 with a `for ` loop
+
