@@ -10,3 +10,7 @@ to return a part of the string.
 
 ## Slice From the Start 
 By leaving out the start index , the range will start at the first character.
+
+## Modify  Strings
+[Modify String](https://www.w3schools.com/python/python_strings_modify.asp)
+
