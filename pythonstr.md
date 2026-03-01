@@ -58,3 +58,7 @@ string.casefold()
 
  ## string-encode
  [str_encode](https://www.w3schools.com/python/ref_string_encode.asp)
+
+ Syntax
+ string.encode(encoding=encoding, errors=errors)
+ 
