@@ -55,4 +55,6 @@ string.casefold()
  ## The `count()` method returns the number of times a specified valued appears in the string.
  ## Syntax
  string.count(value,start,end)
- 
+
+ ## string-encode
+ [str_encode](https://www.w3schools.com/python/ref_string_encode.asp)
